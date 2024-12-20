@@ -31,6 +31,17 @@ Pada handbook ini, kami akan membahas mengenai proses imigrasi, akomodasi, pandu
             text-align: center;
             text-decoration: none;
             border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .nav-button:hover {
+            background-color: #0056b3;
+        }
+        .navigation {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
         }
     </style>
 </head>
