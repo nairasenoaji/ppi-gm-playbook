@@ -1,6 +1,16 @@
 ---
-description: none
-title: Welcome to Manchester
+description: Greetings!
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome to Manchester!
