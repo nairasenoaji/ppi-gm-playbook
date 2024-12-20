@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        .nav-button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            border: 1px solid #007bff;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s, box-shadow 0.3s;
+        }
+        .nav-button:hover {
+            background-color: #0056b3;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .navigation {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        {{ content }}
+    </div>
+    <div class="navigation">
+        <a href="/visa-departure-and-arrival/README.md" class="nav-button">Visa Information</a>
+        <a href="/academic-introduction/README.md" class="nav-button">Academic Introduction</a>
+        <a href="/living-in-manchester/README.md" class="nav-button">Living in Manchester</a>
+        <a href="/miscellaneous/README.md" class="nav-button">Miscellaneous</a>
+    </div>
+</body>
+</html>
