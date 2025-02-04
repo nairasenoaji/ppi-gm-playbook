@@ -40,10 +40,6 @@
 [emergency-leave.md](emergency-leave.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="recommended-ig-accounts.md" %}
 [recommended-ig-accounts.md](recommended-ig-accounts.md)
 {% endcontent-ref %}
