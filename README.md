@@ -19,7 +19,7 @@ Pada handbook ini, kami akan membahas mengenai proses imigrasi, akomodasi, pandu
 
 ### Quick Links
 
-- [Visa Information](visa-departure-and-arrival/README.md)
+- [Visa, Departure, and Arrival](visa-departure-and-arrival/README.md)
 - [Academic Introduction](academic-introduction/README.md)
 - [Living in Manchester](living-in-manchester/README.md)
 - [Miscellaneous](miscellaneous/README.md)

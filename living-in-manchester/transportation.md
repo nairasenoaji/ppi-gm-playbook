@@ -8,21 +8,12 @@ Manchester offers an extensive bus network, making your commute around the city 
 
 **Monthly Bus Pass**
 
-To apply for a monthly bus pass, which can significantly save on your daily travel expenses, follow these steps:
+As of 2025, all bus services in Greater Manchester are part of the Bee Network.
+To apply for a monthly bus pass, which can significantly save on your daily travel expenses, visit:
 
-1. Research the different bus providers and their corresponding monthly pass options.
-2. Choose the provider that best suits your travel needs.
-3. Visit their website or travel center to apply for the monthly pass.
-4. Provide any necessary identification and student verification.
-5. Pay the monthly fee to activate your bus pass.
+{% embed url="https://tfgm.com/tickets-and-passes/bus-tickets" %}
 
-For more detailed information and application, here are some useful links to the main bus providers in Manchester:
-
-* Stagecoach: [Stagecoach Manchester](https://www.stagecoachbus.com/regional-service-updates/greater-manchester)
-* First Bus: [First Greater Manchester](https://www.firstgroup.com/greater-manchester)
-* Arriva: [Arriva Buses](https://www.arrivabus.co.uk)
-
-Also check this useful websites/apps
+Also check this useful website/app for bus schedules:
 
 {% embed url="https://moovitapp.com/index/en-gb/public_transportation-lines-North_West-2105-3754502" %}
 
