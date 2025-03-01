@@ -18,11 +18,17 @@ layout:
 
 It charges £30-35 using a taxi, £25-30 using a UBER, £3-4 using the train. It takes approximately 20 minutes from Manchester Airport to Piccadilly Train Station.
 
-### Student Card & BRP Collection <a href="#student-card-and-brp-collection" id="student-card-and-brp-collection"></a>
+### Student Card & Other Registrations <a href="#student-card-and-brp-collection" id="student-card-and-brp-collection"></a>
 
-Please wait for the email confirming its arrival from the university before you collect them. Your student ID can be collected from several locations across the campus. BRP can be collected on the campus or at the nearest post office. It is advised to collect the BRP on campus since the university will be able to hold onto the BRP temporarily in case you can not collect it in time.
+Please wait for an email from the university confirming the arrival of your student ID card and providing collection instructions. You can collect your student ID from various locations across campus.
 
-A general practitioner (GPs) is a local family doctor. General practitioners (GPs) treat all common (less serious) medical conditions and refer patients to hospitals and other medical services for urgent and specialist treatment. Make sure you register with an NHS GP within the first few weeks after your arrival in Manchester. You can choose to register with any local GP, or even at the health center attached to your university! There is no charge to register with a GP in England. Just be prepared with some documents to prove your identity, such as your BRP, passport, enrollment letter, etc.
+The Biometric Residence Permit (BRP) card is no longer in use. It has been replaced by the eVisa, which can be accessed here:
+
+{% embed url="https://www.gov.uk/get-access-evisa" %}
+
+A general practitioner (GP) is a local family doctor. General practitioners (GPs) treat all common (less serious) medical conditions and refer patients to hospitals and other medical services for urgent and specialist treatment. Make sure you **register with an NHS GP** within the first few weeks after your arrival in Manchester. You can choose to register with any local GP, or even at the health center attached to your university! There is no charge to register with a GP in England. Just be prepared with some documents to prove your identity, such as your BRP, passport, enrollment letter, etc. For more information, visit:
+
+{% embed url="https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/" %}
 
 According to Undang-undang No.23 Tahun 2006 concerning Population Administration, every Indonesian citizen (WNI) residing abroad is required to report the presence, move, change of address, the status of residence permit, as well as other important things (such as birth, marriage, divorce, or death). to the local government and/or Indonesian Representative covering the place of residence (Pasal 4 UU no.23/2006). The purpose of Lapor Diri for Indonesian citizens is to help protect Indonesian citizens residing in the UK/Ireland; ensure that Indonesian citizens are registered on the Voters List for the Election; make it easier to obtain immigration and consular services at the Indonesian Embassy in London. Don't forget that you also need to register yourself at Peduli WNI to access services and protection provided by Ministry of Foreign Affairs.
 
