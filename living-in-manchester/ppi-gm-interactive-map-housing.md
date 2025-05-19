@@ -57,12 +57,12 @@ and other property listings website.&#x20;
 
 ### Made in PPI GM
 
-For a PPI GM tailored list of accomodation and agency list, check [here](https://docs.google.com/spreadsheets/d/1DFQRoPxBTtZvVr3W9464ti4Jouz3i3rsQ7kJo4aaSFY/)
+A PPI GM tailored list of accommodations and recommended agencies will be available soon. Stay tuned!
 
 {% hint style="info" %}
 **IMPORTANT:**
 
-**For further discussion related to housing (viewing requests, looking for housemates, etc.), join this** [**PPI-GM Accomodation group.** ](https://chat.whatsapp.com/EY24QO5mFEIKpIOvxphrJX)**Our volunteers will be happy to help!**
+**The PPI GM Accommodation group will be available soon for housing-related discussions (viewing requests, looking for housemates, etc.) Our volunteers will be happy to help!**
 {% endhint %}
 
 Happy hunting, future Mancunians!
